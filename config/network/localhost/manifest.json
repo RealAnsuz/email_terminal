@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Ansuz Home",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "toffee",
     "defaultUser": {
         "userId": "user",
         "password": "",
