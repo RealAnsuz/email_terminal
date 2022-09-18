@@ -14,7 +14,7 @@
         ]
     },
     "decrypt": {
-        "protection" ["gocadmin"]
+        "protection": ["gocadmin"]
     },
     "identify": {}
 }
