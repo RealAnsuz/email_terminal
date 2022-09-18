@@ -1,0 +1,12 @@
+{
+    "serverAddress": "goc.un.org",
+    "serverName": "Global Occult Coalition Internal Network",
+    "iconName": "goc.png",
+    "terminalID": "gocterminal543",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
+    "randomSeed": true
+}
