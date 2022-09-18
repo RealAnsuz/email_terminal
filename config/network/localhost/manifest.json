@@ -1,7 +1,7 @@
 {
     "serverAddress": "localhost",
     "serverName": "Ansuz Home",
-    "iconName": "Moon-icon.png",
+    "iconName": "runes.png",
     "terminalID": "toffee",
     "defaultUser": {
         "userId": "user",
