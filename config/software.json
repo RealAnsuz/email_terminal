@@ -13,6 +13,8 @@
             "System successfully corrupted!"
         ]
     },
-    "decrypt": {},
+    "decrypt": {
+        "protection" ["gocadmin"]
+    },
     "identify": {}
 }
