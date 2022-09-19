@@ -10,11 +10,9 @@
     },
     "randomSeed": false,
     "initialHistory": {
-        "user": [
-            "login admin@admin"
-        ],
+        "user":  [],
         "ansuz": [
-            "ping fbi.gov"
+            "ping goc.un.org"
         ]
     }
 }
