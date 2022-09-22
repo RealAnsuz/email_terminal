@@ -1,8 +1,9 @@
 {
-    "cdata.exe": {
+    "remotelockoverride": {
         "protection": ["gocadmin"],
         "delayed": 2000,
         "message": [
+            "Locating remote locks in error state.",
             "Transmiting unlock key.",
             "Transmiting unlock key..",
             "Transmiting unlock key...",
