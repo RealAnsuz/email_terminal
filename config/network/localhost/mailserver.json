@@ -3,7 +3,7 @@
         "from": "Jack",
         "to": ["ansuz"],
         "title": "Instructions",
-        "body": "Alright. I'm dead, and if you're reading this, you've found my terminal. I don't have enough time to explain but if you find this, you need to finish what I started. This machine has a connection to the GOC Network, find some creds, telnet in, and read the case file. They don't deem it important enough to investigate but it got me, so it could get others. I'm sorry for doing this to you but please, finish this for me. Goodbye, gang. - Jack"
+        "body": "<p class='desync'>Alright. I'm dead, and if you're reading this, you've found my terminal. I don't have enough time to explain but if you find this, you need to finish what I started. This machine has a connection to the GOC Network, find some creds, telnet in, and read the case file. They don't deem it important enough to investigate but it got me, so it could get others. I'm sorry for doing this to you but please, finish this for me. Goodbye, gang. - Jack</p>"
     },
     {
         "from": "Software",

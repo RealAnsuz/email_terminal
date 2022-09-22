@@ -1,7 +1,6 @@
 /**
  * Internal logic of terminal.
  *
- * Base code created by @AndrewBarfield, further development by @jacksonbenete & @Lucas-C.
  * This should contain all the basic code for the terminal behavior.
  */
 function Terminal() {
