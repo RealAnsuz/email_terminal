@@ -1,5 +1,5 @@
 {
-    "remotelockoverride": {
+    "lockoverride": {
         "protection": ["gocadmin"],
         "delayed": 2000,
         "message": [
