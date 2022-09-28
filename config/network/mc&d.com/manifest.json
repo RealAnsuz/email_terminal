@@ -1,0 +1,18 @@
+{
+    "serverAddress": "mc&d.com",
+    "serverName": "MC&D Internal Systems",
+    "iconName": "Mcd.png",
+    "terminalID": "MCDINTN23",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
+    "randomSeed": false,
+    "initialHistory": {
+        "user":  [],
+        "ansuz": [
+            "ping goc.un.org"
+        ]
+    }
+}
