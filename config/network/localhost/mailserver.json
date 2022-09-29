@@ -3,13 +3,13 @@
         "from": "Jack",
         "to": ["ansuz"],
         "title": "Instructions",
-        "body": "<p class='desync'>Alright. I'm dead, and if you're reading this, you've found my terminal. I don't have enough time to explain but if you find this, you need to finish what I started. This machine has a connection to the GOC Network, find some creds, telnet in, and read the case file. They don't deem it important enough to investigate but it got me, so it could get others. I'm sorry for doing this to you but please, finish this for me. Goodbye, gang. - Jack</p>"
+        "body": "Alright. Let's do this.  I'm dead, and if you're reading this, you've found my terminal.  There's some more information about the system in the next few messages, I'd recommend reading it.  I don't have enough time to explain but if you find this, you need to finish what I started.  This machine has a connection to the GOC Network, find some creds, telnet in, and read the case file. They don't deem it important enough to investigate but it got me, so it could get others.  I'm sorry for doing this to you but please, finish this for me.  Goodbye, gang.  - Jack</p>"
     },
     {
-        "from": "Software",
-        "to": ["ansuz", "a"],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+        "from": "Jack",
+        "to": ["ansuz"],
+        "title": "About the System",
+        "body": "So, this computer is affectionaly named 'Toffee'.  As you can see, it's a old ThinkPad without a battery.  Don't think about it too hard.  Found it in a charity shop one day. Anyway, all you need to know is this baby is capable of connecting to any computer system in the world, regardless of airgapping or conventional security measures.  Weirdly, it still required credentials once you get in, but comparatively, that's the easy part.  In the event of my demise or sudden mysterious disappearance, I leave this unit to Remy.  Consider it payment for the Macbook.  Use it wisely."
     },
     {
         "from": "Josephus A. Miller",
