@@ -3,7 +3,7 @@
         "from": "Jack",
         "to": ["ansuz"],
         "title": "Instructions",
-        "body": "Alright. Let's do this.  I'm dead, and if you're reading this, you've found my terminal.  There's some more information about the system in the next few messages, I'd recommend reading it.  I don't have enough time to explain but if you find this, you need to finish what I started.  This machine has a connection to the GOC Network, find some creds, telnet in, and read the case file. They don't deem it important enough to investigate but it got me, so it could get others.  I'm sorry for doing this to you but please, finish this for me.  Goodbye, gang.  - Jack</p>"
+        "body": "Alright. Let's do this.  If you're reading this, it means you're either an clandestine organization with limitless resources that finally caught up to me, or you're my friends.  I hope it's the latter.  (Note: if it's not the latter, there's a cognitohazard embedded in this message for you GOC motherfuckers, think about what you've done whilst your brain forgets how to breath.) If you've read this far, Congrats!  This message was meant for you.  So, tough break. I'm probably dead.  Unfortunate, but not an unknown. There's some more information about this computer in the next message, I'd recommend reading it.  After that, read the final message.  Sorry about this.  - Jack"
     },
     {
         "from": "Jack",
@@ -12,15 +12,9 @@
         "body": "So, this computer is affectionaly named 'Toffee'.  As you can see, it's a old ThinkPad without a battery.  Don't think about it too hard.  Found it in a charity shop one day. Anyway, all you need to know is this baby is capable of connecting to any computer system in the world, regardless of airgapping or conventional security measures.  Weirdly, it still required credentials once you get in, but comparatively, that's the easy part.  In the event of my demise or sudden mysterious disappearance, I leave this unit to Remy.  Consider it payment for the Macbook.  Use it wisely."
     },
     {
-        "from": "Josephus A. Miller",
-        "to": ["8A73B5", "a"],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
-    },
-    {
-        "from": "Mike",
-        "to": ["admin"],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "from": "Jack",
+        "to": ["ansuz"],
+        "title": "Goodbye",
+        "body": ""
     }
 ]
