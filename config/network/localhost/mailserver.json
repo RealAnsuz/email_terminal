@@ -3,24 +3,18 @@
         "from": "Jack",
         "to": ["ansuz"],
         "title": "Instructions",
-        "body": "<p class='desync'>Alright. I'm dead, and if you're reading this, you've found my terminal. I don't have enough time to explain but if you find this, you need to finish what I started. This machine has a connection to the GOC Network, find some creds, telnet in, and read the case file. They don't deem it important enough to investigate but it got me, so it could get others. I'm sorry for doing this to you but please, finish this for me. Goodbye, gang. - Jack</p>"
+        "body": "Alright. Let's do this.  If you're reading this, it means you're either an clandestine organization with limitless resources that finally caught up to me, or you're my friends.  I hope it's the latter.  (Note: if it's not the latter, there's a cognitohazard embedded in this message for you GOC motherfuckers, think about what you've done whilst your brain forgets how to breath.)  If you've read this far, Congrats! This message was meant for you and you aren't being subjected to your brain forgetting how to perform a basic bodily process.  So, tough break. I'm probably dead.  Unfortunate, but not an unknown. There's some more information about this computer in the next message, I'd recommend reading it.  After that, read the final message.  Sorry about this.  - Jack"
     },
     {
-        "from": "Software",
-        "to": ["ansuz", "a"],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+        "from": "Jack",
+        "to": ["ansuz"],
+        "title": "About the System",
+        "body": "So, this computer is affectionaly named 'Toffee'.  As you can see, it's a old ThinkPad without a battery.  Don't think about it too hard.  Found it in a charity shop one day. Anyway, all you need to know is this baby is capable of connecting to any computer system in the world, regardless of airgapping or conventional security measures.  Weirdly, it still required credentials once you get in, but comparatively, that's the easy part.  In the event of my demise or sudden mysterious disappearance, I leave this unit to Remy.  Consider it payment for the Macbook.  Use it wisely."
     },
     {
-        "from": "Josephus A. Miller",
-        "to": ["8A73B5", "a"],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
-    },
-    {
-        "from": "Mike",
-        "to": ["admin"],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "from": "Jack",
+        "to": ["ansuz"],
+        "title": "Goodbye",
+        "body": "Right, here's where it gets teary.  Weird that I'm having to write this before I'm gone but will never get to see what people think.  You are all the best people I've ever known.  Some of the kindest, nicest, smartest and borderline insane people I've ever, ever known. (And I've met some fucking weirdos.)  So, here's where I ask way too much of you and you can't say no because nobody ever says no to a dead guy.  Whatever it was that got me in the end, you need to deal with it.  Yes, there are bigger organizations that should deal with it. Are they going to?  Of course not, don't be silly.  They've got 'bigger things' to deal with, like the queen trying to get out of her coffin or the massive increase in vampires in the Kent area.  (Note: Yes, vampires are real. No, they're not like Twilight. I hope you never meet one.)  But seriously, if nobody deals with this, people will die. Probably a lot of people.  No pressure.  So, find whatever it is, find out what it is, procure methods of killing whatever it is, then kill whatever it is.  Simplicity itself. I'd start by logging into the GOC Internal Network, they keep pretty good tabs on me and therefore, I don't need to keep case files. Connect via telnet to 'goc.un.org' and then login with 'username@password'. That's a good starting point.  I wish I could help more, I'd be fun.  Alright, I love you all.  Don't die.  Goodbye.  Your Friend, Jack."
     }
 ]
